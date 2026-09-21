@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="instruction_surface">@color/instruction_dark</color>
+</resources>

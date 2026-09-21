@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_blue">#2864DC</color>
+    <color name="brand_blue_dark">#8AB4FF</color>
+    <color name="instruction_light">#FFE9EEF7</color>
+    <color name="instruction_dark">#FF252A32</color>
+    <color name="launcher_background">#FF2864DC</color>
+</resources>
